@@ -1,0 +1,29 @@
+ASSIGNMENT
+
+    1. ARRAYS AND ARRAYS METHODS
+    • Write code showing how the following array methods work and share a screenshot of your working 
+    a) Splice - Done
+    b) indexOf - Done
+    c) forEach - Done
+    d) Map - Done
+    e) Join - Done
+    f) Sort - Done 
+    g) Shift -Done
+    h) Unshift - Done
+    i) Pop -Done
+    j) Push - Done
+    k) Slice -Done used together with unshift to get the newly added items.
+
+    Additional methods;
+    a) lastIndexOf - Done
+    b) reverse - Done : Used to populate the array starting from the last item initial in an array. Useful in query APIs to get the latest items.
+    c) filter - Done : Used to get items based on certain conditions for instance getting odd or even numbers.
+
+    2. OBJECTS IN JAVASCRIPT
+    • Write a code showing how “this” keyword is used -Done
+    • Explain what a constructor function is and write a code showing the same - Done
+
+    A constructor function is a function that is used to create and initialize objects. The constructor function is called with the "new" keyword, which creates a new object and sets the value of "this" keyword to the newly created object. The constructor function can then add properties and methods to the object using the "this" keyword. Constructor functions are often used to create objects with the same properties and methods, such as creating multiple instances of a class.
+
+
+NOTE: Feel free to post any concerns or a discussion around anything on the same arrays and objects throughout the week. We will respond to the above prompts as much as possible to ensure you understand. Happy Learning Week!!
