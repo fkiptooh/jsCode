@@ -14,3 +14,5 @@ This repo is a collection of learning resources that aims at getting beginners t
 6. Navigate to console tab and check the outputs of the various javascript results for a given folder.
 
 ### Screenshots.
+#### Live server Extension
+![Live server](https://github.com/fkiptooh/jsCode/blob/main/screenshots/liveserverextention.png)
