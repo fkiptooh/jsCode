@@ -6,6 +6,10 @@ const addBtn = document.getElementById('add-button')
 // Creating a function to add new item using the DOM Elements
 
 const addNewItem =()=> {
+    // Checkpoint - Making sure that you dont pass an empty item or delete button only to the DOM
+    if(newInput.value.trim()=== ""){
+        return;
+    }
     // 1.0 - Create a new item list for new shopping to be addde.
     
     // 1.1 Giving it an html attribute
