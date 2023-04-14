@@ -1,0 +1,15 @@
+DOM MANIPULATION Assignment
+Create a simple webpage that displays a list of items and allows the user to add and remove items from the list using DOM manipulation techniques in JavaScript.
+
+The webpage should have the following elements:
+A header with a title for the page.
+A section for the list of items.
+An input field where the user can type in a new item to add to the list.
+A button to add the new item to the list.
+Each item in the list should have a delete button to remove it from the list.
+The webpage should use JavaScript to dynamically update the list of items when the user adds or removes an item. Here are some tips for how to implement this:
+
+Use the document.createElement() method to create new list items and buttons.
+Use the appendChild() method to add the new list items and buttons to the list.
+Use the addEventListener() method to attach click event listeners to the add and delete buttons.
+Use the parentNode and removeChild() methods to remove items from the list.
